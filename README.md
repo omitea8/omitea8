@@ -1,6 +1,6 @@
 # About omi.t
 
-- 🖼️ I’m currently working on is developing the image posting service **[caita]**(https://caita.today/)
+- 🖼️ I’m currently working on is developing the image posting service [**caita**](https://caita.today/)
 - 📄 My portfolio site [https://omitea8.vercel.app/](https://omitea8.vercel.app/)
 - 🌱 I'm learning to become a front-end engineer.
 - ❤️ I like cats🐈, coffee☕️, sweets🍰, and flowers🌷.
