@@ -10,7 +10,7 @@
 
 ## Languages and Tools
 
-<p align="left">[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,ruby,react,nextjs,rails,postgres,mui,git,github,vercel,heroku,vscode,notion,figma,ps,ai,ae)](https://skillicons.dev)</p>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,ruby,react,nextjs,rails,postgres,mui,git,github,vercel,heroku,vscode,notion,figma,ps,ai,ae)](https://skillicons.dev)
 
 <p><img align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs?username=omitea8&show_icons=true&locale=en&layout=compact" alt="omitea8" /></p>
 
