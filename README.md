@@ -1,12 +1,13 @@
 # About omi.t
 
 - 🖼️ I’m currently working on is developing the image posting service [caita](https://caita.today/)
+- 📄 My portfolio site [https://omitea8.vercel.app/](https://omitea8.vercel.app/)
 
-- 🌱 I’m currently learning **TypeScript, Next.js**
+- 🌱 I'm learning to become a front-end engineer. **JavaScript, TypeScript, Next.js, etc...**
+- ❤️ I like cats🐈, coffee☕️, sweets🍰, and flowers🌷.
 
 - ✉️ How to reach me **omitea8@gmail.com**
-
-- 📄 Here is my portfolio site [https://omitea8.vercel.app/](https://omitea8.vercel.app/)
+- 📓 about my days [X:@omitea8](https://twitter.com/omitea8)
 
 ## Languages and Tools
 
